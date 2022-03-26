@@ -34,6 +34,50 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: My Apps :
 <!-- BLOG-POST-LIST:START -->
+
+https://apps.apple.com/kz/app/printer-print-your-documents/id1585148293
+
+  1. Printing Documents with different extension
+  2. Documents extension pdf, docx, pttx, txt, jpeg, png
+  3. Edit Documents
+  4. Save Web Sites and Contacs as PDF
+  5. MVVM 
+  6. Realm 
+  7. Google Drive
+  8. DropBox
+  9. AppExtension 
+  10.UIKIT
+  
+https://apps.apple.com/kz/app/plant-flower-identifier/id1557446434
+ 1. ML
+ 2. Subscription
+ 3. UIKIT
+ 4. MVVM
+ 5. Localization
+ 6. Realm
+ 7. Local Notifications
+ 8. UIKIT
+
+https://apps.apple.com/kz/app/ruler-ar-tape-measure-tools/id1453537222
+1. AR 
+2. Subscription
+3. Localization
+4. CoreData
+5. Gyroscope accelerometer
+6. UIKIT
+
+https://apps.apple.com/kz/app/technodоm/id1435756761
+1. Ecom App
+2. VIPER
+3. UI/Unit Test 
+4. Firebase/ Appmenterica analitics
+5. Payment using card, credit(using banks)
+6. Realm 
+7. Algorithms for increasing performance
+8. Universal links
+9. Firebase links
+10. Remote Notifications
+11. UIKIT
 <!-- BLOG-POST-LIST:END -->
