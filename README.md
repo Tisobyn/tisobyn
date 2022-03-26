@@ -49,6 +49,7 @@ https://apps.apple.com/kz/app/printer-print-your-documents/id1585148293
   8. DropBox
   9. AppExtension 
   10.UIKIT
+  Fastlane
   
 https://apps.apple.com/kz/app/plant-flower-identifier/id1557446434
  1. ML
@@ -59,6 +60,7 @@ https://apps.apple.com/kz/app/plant-flower-identifier/id1557446434
  6. Realm
  7. Local Notifications
  8. UIKIT
+ 9. Fastlane
 
 https://apps.apple.com/kz/app/ruler-ar-tape-measure-tools/id1453537222
 1. AR 
@@ -67,6 +69,7 @@ https://apps.apple.com/kz/app/ruler-ar-tape-measure-tools/id1453537222
 4. CoreData
 5. Gyroscope accelerometer
 6. UIKIT
+7. Fastlane
 
 https://apps.apple.com/kz/app/technodоm/id1435756761
 1. Ecom App
@@ -78,6 +81,8 @@ https://apps.apple.com/kz/app/technodоm/id1435756761
 7. Algorithms for increasing performance
 8. Universal links
 9. Firebase links
-10. Remote Notifications
-11. UIKIT
+10. Remote Notificatio
+11. Fastlane
+12. UIKIT
+
 <!-- BLOG-POST-LIST:END -->
